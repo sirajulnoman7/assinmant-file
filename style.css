@@ -61,3 +61,61 @@ section {
 span {
     color: chocolate;
 }
+
+.siraj-s {
+    text-align: center;
+    display: inline;
+
+
+}
+
+#p-padding {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+.last-div {
+    width: 37%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 15px;
+    border-radius: 40px;
+    box-sizing: content-box 30px;
+
+}
+
+.buttom-div {
+    width: 50%;
+    padding: 5%;
+}
+
+.div-fliex {
+    display: flex;
+    width: 50%;
+}
+
+#subscribe-section {
+    background-color: rgb(238, 226, 226);
+    border-radius: 30px;
+    white-space: 30px;
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.sem-recipie {
+    font-size: 20px;
+}
+
+#last-part {
+    display: inline;
+    text-align: center;
+}
